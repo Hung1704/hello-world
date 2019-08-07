@@ -1,2 +1,57 @@
-# hello-world
-this is just a test repository 
+
+# What is mark down
+
+  ## Emphasis
+  * _this will be italic_
+  * **this will be bolder**
+  * ~deleted line~
+  
+  ## List
+  * list1
+    * sublist1
+    * sublist2
+  * list2
+    * sublist1
+    * sublist2
+    
+  ## Order list
+  1. character 'a'
+      1. apple
+      1. ant
+  1. character 'b'
+      1. banana 
+      1. ball
+
+  ## Check Box
+  - [X] this is a complete item
+  - [ ] this is an incomplete item
+  
+  ## Blocls
+  Here are large one and small one.
+  
+  small one
+  `Formal one word or one line`
+  
+  ## Quote
+  As Kanye West said:
+  > We're living the future so
+  > the present is our past.
+  >> quote two sentence
+  
+  
+
+  ## Code
+  ``` js
+ var myImage = document.querySelector('img');
+
+myImage.onclick = function(){
+    var mySrc = myImage.getAttribute('src');
+    if(mySrc === 'image/image1.png'){
+      myImage.setAttribute ('src','image/image2.jpg');
+    } else {
+      myImage.setAttribute ('src','image/image1.png');
+    }
+}
+  ```
+    
+  
