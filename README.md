@@ -32,11 +32,19 @@
   small one
   `Formal one word or one line`
   
+  ## Link
+  * [myWebsite](https://www.lhlai.nctu.me/)
+  * [myFacebook](https://www.facebook.com/lovegodmimi)
+  
   ## Quote
   As Kanye West said:
   > We're living the future so
   > the present is our past.
   >> quote two sentence
+  
+  ## Photo
+  ![My Photo](67737617_2167409650054850_2423996301101236224_n.jpg)
+  Format: ![My handsome Photo](url)
   
   
 
